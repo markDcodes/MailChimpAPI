@@ -1,4 +1,4 @@
-//This projects us the MailChimp APIBuilding to add contacts to a predefined "audience"
+//This projects us the MailChimp API to add contacts to a predefined "audience"
 const express = require("express");
 const app = express();
 const https = require("https"); //included with Node
